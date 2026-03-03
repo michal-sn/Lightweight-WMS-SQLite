@@ -1,5 +1,10 @@
 # Lightweight WMS & CRM System
 
+## Context
+This project was originally developed as my **Engineering Diploma Project**. It is currently being actively maintained and upgraded to serve as a foundation for my postgraduate studies in **DevOps and Cybersecurity**. 
+
+The goal is to transition this standalone desktop application into a modern, containerized infrastructure.
+
 ## What is this?
 I built this desktop application to manage warehouse inventory and customer relationships (CRM). My main goal with this project was to translate business logic into Python code and design a solid, relational database structure from scratch. 
 
