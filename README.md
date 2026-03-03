@@ -7,10 +7,10 @@ Instead of just building a simple CRUD app, I focused on data integrity and basi
 
 ## Tech Stack
 * **Python 3**
-* **SQLite3** (Relational database)
-* **bcrypt** (Password hashing)
-* **CustomTkinter** (Dark-themed GUI)
-* **Utilities:** tktooltip (UX/User Guidance)
+* **SQLite3**
+* **bcrypt**
+* **CustomTkinter**
+* **tktooltip**
 
 ## Under the Hood (Key Features)
 * **Secure Logins:** Passwords are not stored in plain text. I used `bcrypt` to hash credentials, keeping basic security in mind.
