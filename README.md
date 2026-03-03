@@ -10,7 +10,7 @@ Instead of just building a simple CRUD app, I focused on data integrity and basi
 * **SQLite3**
 * **bcrypt**
 * **CustomTkinter**
-* **tktooltip**
+* **TkToolTip**
 
 ## Under the Hood (Key Features)
 * **Secure Logins:** Passwords are not stored in plain text. I used `bcrypt` to hash credentials, keeping basic security in mind.
